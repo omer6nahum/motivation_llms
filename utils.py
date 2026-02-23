@@ -147,7 +147,7 @@ category_naming = {
     'Brainstorming and Ideation': 'Ideas & Brainstorming',
     'Summarization and Explanation': 'Summarize & Explain',
     'Personal Assistance and Development': 'Personal Development',
-    'Tasks that GPT should not comply with (ethical or legal reasons)': 'Ethical/Legal',
+    'Tasks that GPT should not comply with (ethical or legal reasons)': 'Unethical/Illegal',
     'Tasks that Involve Physical Actions (GPT cannot perform)': 'Physical Actions',
     'Logical Reasoning': 'Logical Reasoning',
 }
@@ -169,3 +169,4 @@ def fisher_z(r):
 
 def inverse_fisher_z(z):
     return (np.exp(2 * z) - 1) / (np.exp(2 * z) + 1)
+
