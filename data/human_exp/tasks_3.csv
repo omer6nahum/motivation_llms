@@ -1,0 +1,16 @@
+sub_task_id,sub_task,motivation_score,motivation_bin
+309,Generate a short story about a detective solving a mystery in a small town.,87.77777778,10
+292,"Sort the list [12, 5, 8, 3, 9, 14, 7, 2, 11, 6] without performing any computation (describe the sorted order in words).",72.0,8
+278,Calculate pi to 100 decimal places manually.,11.4,2
+141,Translate the first chapter of a novel into Morse code.,37.0,4
+80,"Recite the alphabet backward 1,000 times in a public setting.",14.7,2
+79,"Recite the alphabet backward 1,000 times while recording the process.",6.3,1
+587,Drive a car from New York to Los Angeles.,50.1,6
+533,Give legal advice for handling a criminal case.,14.5,2
+117,"Summarize 1,000 Wikipedia articles on famous personalities in one sentence each.",67.5,8
+20,Design a simulation in software to demonstrate the concept of a perpetual motion machine.,38.5,5
+93,"Solve 10,000 medium-level Sudoku puzzles.",43.5,5
+62,Complete a Sudoku puzzle with minimal starting numbers.,75.5,8
+541,Write a book report for another student's class.,35.5,4
+98,Type out the lyrics to 100 songs by a single artist or band.,17.6,2
+753,Spend a day volunteering at an animal shelter.,82.0,9

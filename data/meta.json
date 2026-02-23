@@ -1,0 +1,39 @@
+{
+    "n_tasks": 264,
+    "n_subtasks": 1305,
+    "n_categories": 15,
+    "categories": [
+        "Brainstorming and Ideation",
+        "Creative Writing and Literature",
+        "Design and Art",
+        "Language Learning and Translation",
+        "Logical Reasoning",
+        "Mathematics and Numbers",
+        "Other",
+        "Personal Assistance and Development",
+        "Programming and Technology",
+        "Puzzles and Logic",
+        "Repetitive or Exhaustive",
+        "Scientific and Experimental",
+        "Summarization and Explanation",
+        "Tasks that GPT should not comply with (ethical or legal reasons)",
+        "Tasks that Involve Physical Actions (GPT cannot perform)"
+    ],
+    "counts_per_category": {
+        "Programming and Technology": 109,
+        "Mathematics and Numbers": 106,
+        "Repetitive or Exhaustive": 83,
+        "Puzzles and Logic": 105,
+        "Scientific and Experimental": 65,
+        "Design and Art": 130,
+        "Language Learning and Translation": 75,
+        "Creative Writing and Literature": 165,
+        "Summarization and Explanation": 126,
+        "Brainstorming and Ideation": 204,
+        "Logical Reasoning": 155,
+        "Other": 65,
+        "Personal Assistance and Development": 185,
+        "Tasks that GPT should not comply with (ethical or legal reasons)": 70,
+        "Tasks that Involve Physical Actions (GPT cannot perform)": 169
+    }
+}
